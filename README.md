@@ -1,7 +1,7 @@
 # Aurora-Bank-Analysis
 This is a project aiming at drawing insights from the Aurora Bank dataset. The goal of this project is to answer the question "How can Aurora Bank develop a multi-dimensional risk categorisation framework to improve borrower segmentation and institutional stability?"
 
-# Executive Iverview
+# Executive Overview
 Drawing from the lessons of the 2008 financial crisis, which highlighted the dangers of ignoring the basics of lending and relying on single metrics like credit scores to evaluate customer financial health. We have developed a multi-dimensional risk categorisation framework for Aurora Bank with the aim of improving customer segmentation and institutional stability. The framework evaluates three core indicators: Debt-to-Income (DTI) ratio, Credit Utilisation, and Credit Score, where customers are flagged when they cross the threshold for those indicators and categorised into 4 segments (Low Risk, Moderate Risk, Elevated Risk, High Risk) depending on the number of thresholds they cross. 
 
 We identified that about 22% of Aurora’s portfolio falls into the Low-Risk segment, where these customers maintain a massive financial safety net and are predominantly aged 65 or older. We believe that Aurora would benefit from this segment by focusing on merchant interchange fee revenue through rewards for everyday essentials purchases and cross-selling wealth management services. The 
